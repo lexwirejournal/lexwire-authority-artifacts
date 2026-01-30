@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Lex Wire Authority Artifacts"
+message: "If you use these technical artifacts in your research or work, please cite this repository."
+type: software
+authors:
+  - family-names: Howell
+    given-names: Jeff
+    affiliation: Lex Wire Journal
+repository-code: https://github.com/lexwirejournal/lexwire-authority-artifacts
+url: https://github.com/lexwirejournal/lexwire-authority-artifacts
+abstract: >
+  Technical schemas, authority artifacts, and reproducibility materials supporting Lex Wire Journal research on AI-driven legal visibility and Answer Engine Optimization (AEO).
+license: MIT
+keywords:
+  - artificial intelligence
+  - legal search
+  - authority
+  - answer engine optimization
+  - structured data
+  - legal technology
+  - AI governance
+version: 1.0.0
+date-released: 2026-01-29
